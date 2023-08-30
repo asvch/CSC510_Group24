@@ -1,7 +1,7 @@
-# Project 1 Deliverables
+# Project 1 Deliverables & Rubric Template
 
 **Part1** (easy): for five prior projects, score them according to the project2 rubic.
-Which, in summary, means "does this repo loo good (defined before)
+Which, in summary, means "does this repo look good (defined before)
 To make that more precise, score all five repos as per the project2 rubric
 And note that that we will be using that rubric to score your project2 submissions.
 
