@@ -538,7 +538,7 @@ Probably, your first selected project will NOT run in 2023. So you will try this
 
 
 ## PART 2 - Youtube video showing the running project. 
-https://www.youtube.com/watch?v=OJr3QXD08Hk&ab_channel=AjayChundi
+https://www.youtube.com/watch?v=OLyrGeCNH9I
 
 ## PART 3 - Problems faced and promised practices. 
 ScheduleBot - a Discord Bot
